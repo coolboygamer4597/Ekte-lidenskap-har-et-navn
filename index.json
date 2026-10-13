@@ -5,6 +5,11 @@
       "revision": 1,
       "file": "versions/version-cec3ad5889b447cf/r1.json",
       "sha256": "a1d34c367e4bebfe43f6f418180de28d6f72158e423f4b8487245640148fda46"
+    },
+    "version-7a0c6d10fcb34a2c": {
+      "revision": 1,
+      "file": "versions/version-7a0c6d10fcb34a2c/r1.json",
+      "sha256": "df09715c5546d84e77d4e7e37c4f489fa638962666ca56694241f89293b44783"
     }
   }
 }
