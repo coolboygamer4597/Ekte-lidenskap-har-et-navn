@@ -1,0 +1,11 @@
+{
+  "schema": 1,
+  "versions": {
+    "version-9ac8595712b447a7": {
+      "revision": 1,
+      "file": "addition-abstraction/versions/version-9ac8595712b447a7/r1.json",
+      "sha256": "f133e755b3aa4ac69174be9efe9c7643dd0b8761021e35cfc46b000f4dbcdcf9"
+    }
+  },
+  "channel": "addition-abstraction"
+}
